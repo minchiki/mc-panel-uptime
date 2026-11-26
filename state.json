@@ -1,4 +1,8 @@
 {
- "seen": {},
+ "seen": {
+  "panel": 1,
+  "site": 1,
+  "guide": 1
+ },
  "alerted": {}
 }
